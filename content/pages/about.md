@@ -1,7 +1,7 @@
 ---
 template: page
 title: About One Piece
-slug: /page/about
+slug: /pages/about
 draft: false
 ---
 ![One Piece](/media/73245l.jpg "One Piece")
